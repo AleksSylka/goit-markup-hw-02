@@ -78,8 +78,6 @@ body {
 }
 .logo-web {
     color: var(--primary-brand-color);
-    -webkit-text-stroke-color: #000000;
-    -webkit-text-stroke-width: 1px;
 }
 .list-menu {
     list-style: none;
