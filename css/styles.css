@@ -25,6 +25,11 @@ body {
     font-size: 36px;
     color: var(--second-brand-color);
 }
+.title-second-portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--second-brand-color);
+}
 .title-third-level {
     font-weight: 500;
     font-size: 20px;
